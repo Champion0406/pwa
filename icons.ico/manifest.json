@@ -1,12 +1,12 @@
 {
-  “名字”：“Kyrie Irving”，
+  “name”：“Kyrie Irving”，
   “short_name”：“KI”，
   “lang”：“zh-TW”，
   “start_url”：“/”，
-  “顯示”：“獨立”
-}
-{
- "name": "App",
+  “display”：“standalone”
+
+
+ 
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
