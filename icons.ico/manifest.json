@@ -1,9 +1,10 @@
 {
-  “name”：“KyrieIrving”,
-  “short_name”：“KI”,
-  “lang”：“zh-TW”,
-  “start_url”：“/”,
-  “display”：“standalone”,
+
+ "name": "KyrieIrving",
+  "short_name": "KI",
+  "lang": "zh-TW",
+  "start_url": "/file:///Users/Champion/Downloads/startbootstrap-creative-gh-pages/index.html",
+  "display": "standalone",
 
 
  
