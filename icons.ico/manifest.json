@@ -1,9 +1,9 @@
-
-  “name”：“Kyrie Irving”，
-  “short_name”：“KI”，
-  “lang”：“zh-TW”，
-  “start_url”：“/”，
-  “display”：“standalone”
+{
+  “name”：“Kyrie Irving”,
+  “short_name”：“KI”,
+  “lang”：“zh-TW”,
+  “start_url”：“/”,
+  “display”：“standalone”,
 
 
  
